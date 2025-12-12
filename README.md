@@ -71,4 +71,4 @@ All projects are shared with **clean structure and clear documentation**.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mahmutozsoy21
+- E-mail: mahmutozsoy2604@gmail.com
