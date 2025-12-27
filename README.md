@@ -73,5 +73,5 @@ All projects are shared with **clean structure and clear documentation**.
 
 - ✉  mahmutozsoy2604@gmail.com  
 - 🌐 https://mahmutozsoy.dev
-- 🔗  linkedin.com/in/mahmuttozsoy  
+- 🔗  https://linkedin.com/in/mahmuttozsoy  
 
