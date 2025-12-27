@@ -71,6 +71,7 @@ All projects are shared with **clean structure and clear documentation**.
 
 ## 📫 Contact
 
-- E-mail: mahmutozsoy2604@gmail.com
+- ✉  mahmutozsoy2604@gmail.com  
 - 🌐 https://mahmutozsoy.dev
+- 🔗  linkedin.com/in/mahmuttozsoy  
 
